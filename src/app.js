@@ -28,5 +28,5 @@ app.listen(PORT, () => {
 });
 
 
-MONGO_URI=mongodb://localhost:27017
+MONGO_URI=mongodb+srv://cbt123:cbt123@task-management.eknkg.mongodb.net/?retryWrites=true&w=majority&appName=task-management
 PORT=5000
